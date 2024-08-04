@@ -1,0 +1,1 @@
+Takes in a credit card number from a common credit card vendor and validates it to make sure that it is a valid number.

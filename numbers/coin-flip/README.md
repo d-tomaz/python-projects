@@ -1,0 +1,1 @@
+Simulates flipping a single coin as many times as the user decides, records the outcomes, and counts the number of tails and heads.
